@@ -1,0 +1,13 @@
+{
+    "name": "toddgeist/php-library-for-stats-mix-api",
+    "description": "composer package of stat mix",
+    "authors": [
+        {
+            "name": "Todd Geist",
+            "email": "todd@geistinteractive.com"
+        }
+    ],
+    "require": {
+
+    }
+}
